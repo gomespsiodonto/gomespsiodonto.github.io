@@ -1,0 +1,17 @@
+{
+  "hosting": {
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  },
+  "apiKey": "AIzaSyAgS40O1zV_CTk9DotrEk5WCmWQKCT73nM",
+  "authDomain": "gomespsiodonto.firebaseapp.com",
+  "projectId": "gomespsiodonto",
+  "storageBucket": "gomespsiodonto.appspot.com",
+  "messagingSenderId": "293257716524",
+  "appId": "1:293257716524:web:4f98e7a6a3f8a4387d4289",
+  "measurementId": "G-5CXK3S1RW9"
+}
